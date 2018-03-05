@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+body {
+    background-color: lightgray;
+}
+    <div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#about">About</a>
+  <a href="#contact">Contact</a>
+  <input type="text" placeholder="Search..">
+</div>
+</style>
+<h1>Profiles and Projects</h1>
+
+<h1 style="border:2px solid Blue;">Create an account</h1>
+</br>
+<h1 style="border:2px solid Green;">Log in</h1>
+</br>
+<h1 style="border:2px solid Red;">My account</h1>
+</br>
+<h1 style="border:2px solid Purple;">Account settings</h1>
+</br>
+<h1 style="border:2px solid Yellow;">Top profiles</h1>
+</body>
+</html>
