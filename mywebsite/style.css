@@ -1,0 +1,72 @@
+body{
+	background-color:#f4f4f4;
+	color:#555;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+}
+#main-header{
+	background-color:darkkhaki;
+	color:#black;
+    padding-left:30px;
+}
+.container{
+	width:20%;
+	margin:auto;
+	overflow:hidden;
+}
+#navbar{
+    background-color:beige;
+        color:white;
+}
+#navbar ul{
+    padding:0;
+    list-style: none;
+}
+#navbar li{
+    display:inline;
+}
+#navbar a{
+    color:black;
+    text-decoration: none;
+    font-size:18px;
+    padding-right:15px;
+}
+#showcase{
+    background-image:url('../mywebsite/images/header.jpg');
+    background-position:center right;
+    height:250px;
+}
+#footer{
+    background-image:url('../mywebsite/images/header.jpg');
+    background-position:center right;
+    height:365px;
+}
+#pages-header{
+    padding-left:80px;
+}
+    <!--Gallery-->
+   
+    div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 20%;
+    height: 20%;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+<!--Form-->
+    
+
